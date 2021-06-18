@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Shyam1511Bot.
-- 🌱 I’m currently learning Unity.
 
 
 <!---
